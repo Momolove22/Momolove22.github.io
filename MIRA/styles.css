@@ -38,7 +38,7 @@
    justify-content: center;
    align-items: center;
    flex-direction: column;
-   background: #f8fafc;;
+   background: #799981;;
    background-size: cover;
   }
    .contact .content {
@@ -46,7 +46,7 @@
     text-align: center; 
    }
       .contact .content h2 {
-       color:#fff;
+       color:#18ac0b;
        font-weight: 10;
        font-size: 24px; 
        text-align: left; 
@@ -84,7 +84,7 @@
    .container .contactInfo .box .icon {
    min-width: 60px;
    height: 60px;
-   background: #fff;
+   background: #4e930a;
    display: flex; 
    justify-content: center;
    align-items: center;
