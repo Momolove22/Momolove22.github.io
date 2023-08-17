@@ -181,36 +181,36 @@ body {
     margin: 0 auto;
     /* Center-align the container */
   }
+}
 
-  .header {
+  /*.header {
     display: flex;
     /* Use flexbox for header layout */
-    justify-content: space-between;
+    /*justify-content: space-between;
     /* Spread items evenly */
-    align-items: center;
+   /* align-items: center;
     /* Center-align items vertically */
-    padding: 20px;
+    /*padding: 20px;
     /* Add padding for header spacing */
-  }
+  /*}
 
   .sidebar {
-    float: left;
+    float: right;
     /* Float sidebar to the left */
-    width: 25%;
+    /*width: 25%;
     /* Allocate 25% width for sidebar */
-    padding: 20px;
+    /*padding: 20px;
     /* Add padding for sidebar spacing */
-  }
+  /*}
 
   .main-content {
     float: right;
     /* Float main content to the right */
-    width: 75%;
+    /*width: 75%;
     /* Allocate 75% width for main content */
-    padding: 20px;
+    /*padding: 20px;
     /* Add padding for main content spacing */
-  }
-}
+  /*}
 
 
 
