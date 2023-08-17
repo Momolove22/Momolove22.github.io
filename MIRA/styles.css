@@ -99,9 +99,9 @@
    flex-direction: column; 
    font-weight: 100;
     }
-  .container .contactInfo .box .icon .text .h3 {
+  .container .contactInfo .box .icon .text .h2 {
    font-weight: 200;
-   color: #00bcd4; 
+   color: #057228; 
   }
   .contactForm {
    width: 40%;
@@ -110,7 +110,7 @@
   }
   .contactForm h2 {
    font-size: 30px;
-   color: #fff; 
+   color: #057228; 
    font-weight: 500;
   }
   .contactForm .inputBox {
