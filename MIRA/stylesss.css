@@ -153,65 +153,33 @@ body {
   opacity:  1;
  }
 }
-/* For screens up to 768px (typical mobile devices) */
+
 @media (max-width: 768px) {
   body {
     font-size: 16px;
-    /* Adjust font size for better readability */
+    
     padding: 10px;
-    /* Add padding for content spacing */
+    
   }
 }
 
-/* For screens between 769px and 1024px (tablets) */
+
 @media (min-width: 769px) and (max-width: 1024px) {
   body {
     font-size: 18px;
-    /* Increase font size for better readability */
+    
     padding: 20px;
-    /* Increase padding for content spacing */
+    
   }
 }
 
-/* For screens larger than 1024px (desktops) */
 @media (min-width: 1025px) {
   .container {
     max-width: 1200px;
-    /* Set a maximum width for content container */
+    
     margin: 0 auto;
-    /* Center-align the container */
   }
 }
-
-  /*.header {
-    display: flex;
-    /* Use flexbox for header layout */
-    /*justify-content: space-between;
-    /* Spread items evenly */
-   /* align-items: center;
-    /* Center-align items vertically */
-    /*padding: 20px;
-    /* Add padding for header spacing */
-  /*}
-
-  .sidebar {
-    float: right;
-    /* Float sidebar to the left */
-    /*width: 25%;
-    /* Allocate 25% width for sidebar */
-    /*padding: 20px;
-    /* Add padding for sidebar spacing */
-  /*}
-
-  .main-content {
-    float: right;
-    /* Float main content to the right */
-    /*width: 75%;
-    /* Allocate 75% width for main content */
-    /*padding: 20px;
-    /* Add padding for main content spacing */
-  /*}
-
 
 
 
